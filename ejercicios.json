@@ -1,0 +1,97 @@
+{
+  "ejercicios": [
+    {
+      "id": 1,
+      "rutina": "pecho",
+      "ejercicios": [
+        {
+          "ejercicio": "fondos"
+        },
+        {
+          "ejercicio": "aperturas"
+        },
+        {
+          "ejercicio": "contractora"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rutina": "abdominales",
+      "ejercicios": [
+        {
+          "ejercicio": "rueda"
+        },
+        {
+          "ejercicio": "rueda parado al final"
+        },
+        {
+          "ejercicio": "rueda de pie"
+        },
+        {
+          "ejercicio": "laterales"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rutina": "hombro",
+      "ejercicios": [
+        {
+          "ejercicio": "elevación frontal"
+        },
+        {
+          "ejercicio": "elevación lateral"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "rutina": "pierna",
+      "ejercicios": [
+        {
+          "ejercicio": "sentadilla"
+        },
+        {
+          "ejercicio": "zancada"
+        },
+        {
+          "ejercicio": "goma cuádriceps"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "rutina": "bíceps",
+      "ejercicios": [
+        {
+          "ejercicio": "goma a la cabeza"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "rutina": "tríceps",
+      "ejercicios": [
+        {
+          "ejercicio": "goma estirada"
+        },
+        {
+          "ejercicio": "fondos"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "rutina": "espalda",
+      "ejercicios": [
+        {
+          "ejercicio": "dominadas"
+        },
+        {
+          "ejercicio": "remo"
+        }
+      ]
+    }
+  ]
+}
